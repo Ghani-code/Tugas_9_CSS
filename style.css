@@ -1,0 +1,22 @@
+body {
+  background-image: url("screen-0.jpg");
+  background-size: cover;
+}
+p {
+  text-align: right;
+}
+div {
+  background-color: white;
+  float: right;
+  width: 900px;
+  margin-right: 1px;
+  padding-right: 5px;
+}
+h1 {
+  text-align: right;
+}
+img {
+  position: relative;
+  left: 700px;
+  z-index: -1;
+}
